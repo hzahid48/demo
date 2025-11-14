@@ -10,9 +10,12 @@ def main():
     # Test the functions
     num1 = 10
     num2 = 5
+    num3 = 10
+    num4 = 2
     
     print(f"Adding {num1} and {num2}: {add(num1, num2)}")
     print(f"Subtracting {num2} from {num1}: {subtract(num1, num2)}")
+    print(f"Multiplication")
 
 if __name__ == "__main__":
     main()
