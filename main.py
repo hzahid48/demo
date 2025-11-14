@@ -16,6 +16,7 @@ def main():
     print(f"Adding {num1} and {num2}: {add(num1, num2)}")
     print(f"Subtracting {num2} from {num1}: {subtract(num1, num2)}")
     print(f"Multiplication")
+    print(f"Division")
 
 if __name__ == "__main__":
     main()
